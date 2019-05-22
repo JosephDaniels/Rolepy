@@ -25,6 +25,25 @@ Admin settings with one player acting as the GM or game master.
 Player settings where all the players can interact with each other in the chatroom.
 Background image upload by the GM.
 Virtual Dice Rollers.
+Virtual Reality Dice Rollers using psuedo-random physics in a real-time environment.
 Character sheet profiles.
 In game descriptions of scenes by saying /whatdoes "The Bar" look like?
-
+Dm can upload backgrounds to the room.
+DM can upload characters and use the software to greenscreen simple backgrounds.
+DM can use colors on certain words in the paragraph. Using blue for proper nouns such as Kvylora and Hoggswinde, Red for persons of interest and Yellow for Key Items.
+Formatting with bold, italics and underscore. Using tags, respectively <b></b> <i></i> <u></u>
+Simple built in spell checker.
+Health indicator (Diablo style blood bauble.)
+Mana indicator (Diablo style mana bauble.)
+Diablo Style Inventory
+Each player has their own viewport and sees the game through their eyes depending on where they are in the world.
+Monster tracker for DM.
+Story Tracker for DM.
+Journal function for players.
+Voice chat for DM.
+Players can only talk to each other if they are close enough to speak. Otherwise, they cannot hear each other.
+Player to Player contact and chatting.
+Traders.
+Ability to export the entire chat as a file so it can be saved.
+Ability to load a previous chat and resume it.
+Players can change their emotions, and their character picture changes with it.
